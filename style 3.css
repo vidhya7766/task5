@@ -1,0 +1,52 @@
+.h{
+    background-color:white;
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+}
+hr{
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: blueviolet;
+}
+h1{
+    float:center;
+    background-color: blueviolet;
+}
+input[type=text]{
+    padding: 12px 20px;
+    margin:8px 0;
+    box-sizing: border-box;
+    border:1px solid blueviolet;
+    border-width: 3px;
+    border-color: blueviolet;
+    outline:none;
+}
+input[type=text]:focus{
+    border: 1px solid blueviolet;
+}
+label{
+    display: block;
+    clear: left;
+    width:500px;
+    text-align:center;
+   float:left; 
+}
+input{
+    display:inline-block;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-left: 2000px;
+}
+img{
+    width: 400px;
+  height: 200px;
+  float: left;
+}
+header{
+    background-color:blueviolet;
+    padding:100px;
+    color:white;
+}
